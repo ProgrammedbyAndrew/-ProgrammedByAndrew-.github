@@ -1,0 +1,32 @@
+body { 
+    background-color: #efeee7;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+img {
+    border-style: Dotted;
+}
+h1 {
+    color: #efeee7;
+    background-color: #333333;
+    text-align: center;
+}
+h1 {
+    align-content: space-around
+}
+section h1 {
+    align-content: center
+}
+
+p {
+    background-color: blanchedalmond
+    
+}
+
+p {
+    text-align: center;
+}
+
